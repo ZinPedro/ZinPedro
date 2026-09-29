@@ -10,18 +10,6 @@ Sou estudante de Engenharia da Computação na PUC-Campinas. Neste espaço, comp
 
 Meu portfólio reúne diferentes áreas da computação e apresenta minha evolução por meio de código, documentação e projetos colaborativos.
 
-## Tecnologias
-
-Tecnologias presentes nos meus estudos e projetos:
-
-| Categoria | Tecnologias |
-| --- | --- |
-| Linguagens | C, Java, JavaScript, TypeScript, SQL e Assembly 8086 |
-| Desenvolvimento web | HTML, CSS, React, Vite, Node.js e Express |
-| Banco de dados | MySQL e Sequelize |
-| Sistemas e redes | Linux, sockets TCP, threads e mutex |
-| Ferramentas | Git, GitHub, VS Code e Figma |
-
 ## Projetos em destaque
 
 | Projeto | Proposta | Contexto técnico |
@@ -37,6 +25,23 @@ Tecnologias presentes nos meus estudos e projetos:
 - **Fundamentos de computação:** projetos e estudos de estruturas de dados, orientação a objetos, sistemas e redes.
 
 Os repositórios incluem trabalhos em diferentes estágios de desenvolvimento. A documentação de cada projeto apresenta seu contexto, escopo e funcionamento.
+
+## Tecnologias
+
+<p>
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_java.svg" width="40" height="40" alt="Java" title="Java" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_typescript.svg" width="40" height="40" alt="TypeScript" title="TypeScript" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_assembly.svg" width="40" height="40" alt="Assembly" title="Assembly" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_cpp.svg" width="40" height="40" alt="C++" title="C++" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_c.svg" width="40" height="40" alt="C" title="C" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_html.svg" width="40" height="40" alt="HTML" title="HTML" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_js.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_css.svg" width="40" height="40" alt="CSS" title="CSS" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vhdl.svg" width="40" height="40" alt="VHDL" title="VHDL" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_powershell.svg" width="40" height="40" alt="PowerShell" title="PowerShell" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_shell.svg" width="40" height="40" alt="Shell" title="Shell" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" width="40" height="40" alt="Python" title="Python" />
+</p>
 
 ## Contato
 
