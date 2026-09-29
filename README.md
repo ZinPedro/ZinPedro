@@ -30,7 +30,6 @@ Os repositórios incluem trabalhos em diferentes estágios de desenvolvimento. A
 
 <p>
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_java.svg" width="40" height="40" alt="Java" title="Java" />
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_typescript.svg" width="40" height="40" alt="TypeScript" title="TypeScript" />
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_assembly.svg" width="40" height="40" alt="Assembly" title="Assembly" />
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_cpp.svg" width="40" height="40" alt="C++" title="C++" />
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_c.svg" width="40" height="40" alt="C" title="C" />
@@ -38,8 +37,6 @@ Os repositórios incluem trabalhos em diferentes estágios de desenvolvimento. A
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_js.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_css.svg" width="40" height="40" alt="CSS" title="CSS" />
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vhdl.svg" width="40" height="40" alt="VHDL" title="VHDL" />
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_powershell.svg" width="40" height="40" alt="PowerShell" title="PowerShell" />
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_shell.svg" width="40" height="40" alt="Shell" title="Shell" />
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" width="40" height="40" alt="Python" title="Python" />
 </p>
 
