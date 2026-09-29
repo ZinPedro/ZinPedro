@@ -10,6 +10,18 @@ Sou estudante de Engenharia da Computação na PUC-Campinas. Neste espaço, comp
 
 Meu portfólio reúne diferentes áreas da computação e apresenta minha evolução por meio de código, documentação e projetos colaborativos.
 
+## Tecnologias
+
+Tecnologias presentes nos meus estudos e projetos:
+
+| Categoria | Tecnologias |
+| --- | --- |
+| Linguagens | C, Java, JavaScript, TypeScript, SQL e Assembly 8086 |
+| Desenvolvimento web | HTML, CSS, React, Vite, Node.js e Express |
+| Banco de dados | MySQL e Sequelize |
+| Sistemas e redes | Linux, sockets TCP, threads e mutex |
+| Ferramentas | Git, GitHub, VS Code e Figma |
+
 ## Projetos em destaque
 
 | Projeto | Proposta | Contexto técnico |
@@ -28,4 +40,4 @@ Os repositórios incluem trabalhos em diferentes estágios de desenvolvimento. A
 
 ## Contato
 
-Para conversar sobre projetos, colaboração e oportunidades profissionais, entre em contato pelo [LinkedIn](https://www.linkedin.com/in/pedrohenriquecoanzin/).
+[LinkedIn](https://www.linkedin.com/in/pedrohenriquecoanzin/) · [pedro.h.c.zin@gmail.com](mailto:pedro.h.c.zin@gmail.com)
